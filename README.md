@@ -27,29 +27,16 @@ pip install -r requirements.txt
 ```
 
 ## Running the Project
-Run the script to train the model and make predictions:
+Open the Jupyter Notebook and execute the cells:
 ```bash
-python health_costs.py
+jupyter notebook fcc_predict_health_costs_with_regression.ipynb
 ```
 
 ## Example Usage
-After running the script, the model will prompt for user input to predict health costs. Example input:
-```
-Enter age: 45
-Enter BMI: 28.3
-Number of children: 2
-Smoker? (yes/no): no
-Region (north/south/east/west): east
-```
-Example output:
-```
-Predicted Health Insurance Cost: $12,450.75
-```
+The notebook includes step-by-step execution for training the model and making predictions. Modify the input values in the provided cells to predict health costs.
 
 ## Testing
-Run the test script to validate model accuracy:
-```bash
-pytest test_health_costs.py
-```
-This ensures that the model is working correctly and meets expected performance benchmarks.
+Since this project is implemented in a Jupyter Notebook, testing can be done by running all the cells and verifying the outputs. 
+
+
 
