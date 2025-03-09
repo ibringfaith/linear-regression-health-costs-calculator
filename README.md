@@ -10,9 +10,7 @@ This project implements a **Linear Regression Health Costs Calculator**, which p
 - **Performance Evaluation**: Provides metrics such as R-squared and Mean Absolute Error (MAE) to assess model accuracy.
 - **Visualization**: Displays data distributions and model predictions using Matplotlib and Seaborn.
 
-## Installation & Setup
-### Prerequisites
-Ensure you have **Python 3.7+** installed along with the required dependencies.
+## Setup
 
 ### Clone the Repository
 ```bash
