@@ -20,12 +20,6 @@ git clone https://github.com/ibringfaith/linear-regression-health-costs-calculat
 cd linear-regression-health-costs-calculator
 ```
 
-### Install Dependencies
-Using `pip`, install the necessary libraries:
-```bash
-pip install -r requirements.txt
-```
-
 ## Running the Project
 Open the Jupyter Notebook and execute the cells:
 ```bash
